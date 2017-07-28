@@ -1,0 +1,2 @@
+# bfgminer
+anythink
